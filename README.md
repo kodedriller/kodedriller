@@ -21,9 +21,9 @@ Thank you for stopping by.
 
 ## **📊 Stats**
 <div align="center" style="text-align:center">
-      <a href="#">
+<!--       <a href="#">
           <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodedriller&theme=tokyonight"
-               alt="kodedriller's Languages Used">
+               alt="kodedriller's Languages Used"> -->
       <a href="#">
           <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodedriller&layout=compact&theme=tokyonight"
                alt="Compact View">
@@ -33,14 +33,16 @@ Thank you for stopping by.
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kodedriller&show_icons=true&theme=tokyonight&count_private=true"
             alt="kodedriller's Github stats">
     </a>
+</div>
+<div align="center" style="text-align:center">
     <a href="#">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kodedriller&theme=tokyonight"
             alt="kodedriller's Github commit streak">
-    </a>
+<!--     </a>
     <a href="https://wakatime.com/@kodedriller">
         <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kodedriller"
             alt="kodedriller's wakatime stats">
-    </a>
+    </a> -->
 </div>
 
 ---
