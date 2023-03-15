@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD042-->
 
-# Hi there, I'm **[Manish Bishnoi]**! 👋
+# Hi there, I'm **Manish Bishnoi**! 👋
 
 I'm currently a third-year **Computer Engineering student** (**[CE](https://www.aitpune.com/)**) at the Army Institute of Technology Pune🧑‍🎓🎓.
 
